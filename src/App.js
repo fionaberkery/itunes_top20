@@ -10,6 +10,7 @@ function App() {
 <div className="App">
 
 <h1> iTunes Top 20 </h1>
+<hr></hr>
 
         <SongContainer/>
 
